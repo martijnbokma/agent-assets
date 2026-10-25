@@ -1,0 +1,45 @@
+canonical_tag,tag_group,aliases,description
+all,meta,*,Fallback tag when domain-specific rows are unavailable.
+saas,product,software|software-as-a-service,Software products with recurring subscription flows.
+b2b,audience,business-to-business,Products primarily targeting organizations.
+b2c,audience,business-to-consumer|consumer,Products primarily targeting end consumers.
+enterprise,audience,large-enterprise,Enterprise procurement and governance heavy flows.
+agency,business-model,studio|services-agency,Creative or delivery agencies.
+consulting,business-model,advisor|consultancy,Professional advisory service businesses.
+developer-tools,product,docs|devtools|tooling,Products for developers and technical teams.
+fintech,industry,financial-tech,Financial products and money workflows.
+crypto,industry,web3|blockchain,Crypto and blockchain use cases.
+ecommerce,industry,commerce|online-retail,Transactional online shopping experiences.
+dtc,business-model,direct-to-consumer,Direct-to-consumer retail model.
+healthcare,industry,health|medtech,Healthcare services and patient-facing products.
+legal,industry,law|legal-services,Legal services and intake experiences.
+local-services,industry,local-business|service-business,Location-based service providers.
+coaching,industry,mentor|coaching-program,Coaching and transformation programs.
+education,industry,edtech|learning,Education and course delivery experiences.
+creator,persona,content-creator,Independent creator businesses.
+media,industry,publishing|newsletter,Media and publication products.
+content,capability,content-marketing,Content-heavy editorial or information architecture flows.
+community,product,membership|network,Community-driven or member-centric products.
+nonprofit,industry,charity|ngo,Nonprofit and mission-driven organizations.
+advocacy,industry,campaigning|petition,Advocacy and petition campaigns.
+events,industry,event-ticketing|conference,Event discovery and ticketing journeys.
+mobile-app,product,mobile|app,Mobile-first product experiences.
+marketplace,business-model,two-sided-marketplace,Dual-sided buyer/seller ecosystems.
+restaurant,industry,food-service,Restaurant and food ordering experiences.
+travel,industry,tourism|booking,Travel discovery and booking products.
+real-estate,industry,property|housing,Property listing and real estate services.
+luxury,positioning,premium|high-end,Luxury or premium brand positioning.
+fitness,industry,training|workout,Fitness and workout experiences.
+wellness,industry,self-care|wellbeing,Wellness and self-improvement experiences.
+recruiting,industry,hiring|talent-acquisition,Recruiting and hiring workflows.
+analytics,capability,bi|business-intelligence,Analytics and reporting-heavy products.
+cybersecurity,industry,security|infosec,Cybersecurity products and trust-heavy security workflows.
+hr-tech,industry,human-resources-tech|hrtech,HR software and talent lifecycle platforms.
+property-management,industry,proptech-ops,Property operations and management workflows.
+insurance,industry,insurtech,Insurance product and quoting experiences.
+operations,capability,ops|workflow-ops,Operations-centric planning and workflow products.
+compliance,capability,regulatory|audit-readiness,"Compliance, governance, and audit-readiness contexts."
+booking,capability,reservation|scheduling,Scheduling and booking-heavy user journeys.
+retention,capability,engagement-retention,Retention and lifecycle engagement optimization.
+onboarding,capability,activation|first-run,Onboarding and activation-focused experiences.
+pricing,capability,plans|packaging,Pricing and packaging decision experiences.

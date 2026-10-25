@@ -1,0 +1,45 @@
+product_type,primary,secondary,cta,background,text,border,color_direction,category_tags,quality_tier
+SaaS (General),#2563EB,#3B82F6,#F97316,#F8FAFC,#1E293B,#E2E8F0,Trust blue with energetic orange action accents,b2b|b2c|saas,core
+Developer Tools,#0F172A,#334155,#22C55E,#020617,#E2E8F0,#1E293B,Dark terminal base with success green CTAs,b2b|developer-tools|saas,core
+Fintech/Crypto,#4338CA,#6366F1,#F59E0B,#0F172A,#F8FAFC,#334155,Security-first indigo with controlled amber highlights,b2b|b2c|crypto|fintech,core
+Healthcare App,#0E7490,#22D3EE,#059669,#ECFEFF,#164E63,#A5F3FC,Calm clinical cyan with trustworthy green confirmations,b2c|healthcare|local-services,core
+Legal Services,#1E3A8A,#334155,#0EA5E9,#F8FAFC,#0F172A,#CBD5E1,Conservative navy with clear informational blue cues,b2b|b2c|legal|local-services,core
+Consulting Firm,#1F2937,#4B5563,#EA580C,#FFFFFF,#111827,#E5E7EB,Executive neutrals with assertive orange conversion accents,agency|b2b|consulting,core
+Coaching Program,#7C3AED,#A78BFA,#F97316,#FAF5FF,#3B0764,#DDD6FE,Motivational violet with warm orange momentum points,b2c|coaching|education,core
+Online Course,#1D4ED8,#60A5FA,#F59E0B,#EFF6FF,#1E3A8A,#BFDBFE,Structured learning blue with attention-grabbing amber,b2c|creator|education,core
+Newsletter/Media,#111827,#374151,#2563EB,#F9FAFB,#111827,#E5E7EB,Editorial grayscale with trusted blue interaction color,community|creator|media,core
+Community Platform,#0F766E,#14B8A6,#F97316,#F0FDFA,#134E4A,#99F6E4,Inclusive teal system with high-visibility action orange,b2c|community|saas,core
+E-commerce (Fashion),#065F46,#10B981,#F97316,#ECFDF5,#064E3B,#A7F3D0,Fresh commerce green with promotional orange CTA contrast,b2c|dtc|ecommerce,core
+E-commerce (Electronics),#1D4ED8,#06B6D4,#F59E0B,#F8FAFC,#0F172A,#CBD5E1,Tech blue-cyan base with amber buy-button emphasis,b2c|ecommerce,core
+Luxury/Premium,#1C1917,#44403C,#CA8A04,#FAFAF9,#0C0A09,#D6D3D1,Understated charcoal and gold for premium perception,b2c|luxury|real-estate,core
+Restaurant/Food,#DC2626,#F87171,#F59E0B,#FEF2F2,#7F1D1D,#FECACA,Appetite-led reds with warm ordering accents,b2c|local-services|restaurant,core
+Travel Booking,#0C4A6E,#0284C7,#F97316,#F0F9FF,#082F49,#BAE6FD,Adventure blue base with urgency orange booking actions,b2c|ecommerce|travel,core
+Real Estate,#334155,#64748B,#0EA5E9,#F8FAFC,#0F172A,#CBD5E1,Professional slate palette with bright inquiry CTA,b2c|local-services|real-estate,core
+Nonprofit Donation,#065F46,#16A34A,#D97706,#F7FEE7,#14532D,#BBF7D0,Hopeful green palette with respectful donation focus,advocacy|community|nonprofit,core
+Event Ticketing,#7C2D12,#EA580C,#FACC15,#FFF7ED,#431407,#FED7AA,High-energy warm palette for urgency and excitement,b2c|ecommerce|events,core
+B2B Enterprise,#111827,#374151,#0284C7,#F9FAFB,#111827,#D1D5DB,Serious neutral platform with precise blue action points,b2b|enterprise|saas,core
+Marketplace,#1E40AF,#0EA5E9,#F97316,#F8FAFC,#0F172A,#BFDBFE,Balanced trust blue with strong transaction CTA color,b2b|b2c|marketplace|saas,core
+Cybersecurity Platform,#0B1220,#1E293B,#22C55E,#F8FAFC,#0F172A,#334155,Cybersecurity Platform uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2b|enterprise|saas,core
+HR Tech Suite,#1D4ED8,#60A5FA,#F59E0B,#F8FAFC,#0F172A,#CBD5E1,HR Tech Suite uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2b|recruiting|saas,core
+Property Management SaaS,#14532D,#22C55E,#F97316,#F7FEE7,#14532D,#BBF7D0,Property Management SaaS uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2b|real-estate|saas,core
+Telehealth Service,#0E7490,#22D3EE,#16A34A,#ECFEFF,#164E63,#A5F3FC,Telehealth Service uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|healthcare|local-services,core
+Boutique Fitness App,#7C3AED,#A78BFA,#F97316,#FAF5FF,#3B0764,#DDD6FE,Boutique Fitness App uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|fitness|mobile-app|wellness,extended
+Sustainable DTC Store,#065F46,#10B981,#EA580C,#ECFDF5,#064E3B,#A7F3D0,Sustainable DTC Store uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|dtc|ecommerce,extended
+Creator Membership Hub,#0B1220,#1E293B,#22C55E,#F8FAFC,#0F172A,#334155,Creator Membership Hub uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|community|creator|media,extended
+B2B Procurement Tool,#1D4ED8,#60A5FA,#F59E0B,#F8FAFC,#0F172A,#CBD5E1,B2B Procurement Tool uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2b|enterprise|saas,extended
+Legal Intake Automation,#14532D,#22C55E,#F97316,#F7FEE7,#14532D,#BBF7D0,Legal Intake Automation uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2b|b2c|legal|saas,extended
+Travel Planning Platform,#0E7490,#22D3EE,#16A34A,#ECFEFF,#164E63,#A5F3FC,Travel Planning Platform uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|ecommerce|travel,extended
+Restaurant Ordering App,#7C3AED,#A78BFA,#F97316,#FAF5FF,#3B0764,#DDD6FE,Restaurant Ordering App uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|local-services|mobile-app|restaurant,extended
+Nonprofit Fundraising Portal,#065F46,#10B981,#EA580C,#ECFDF5,#064E3B,#A7F3D0,Nonprofit Fundraising Portal uses trust-led contrast with clear action emphasis and readable neutral surfaces.,advocacy|b2c|community|nonprofit,extended
+Marketplace for Experts,#0B1220,#1E293B,#22C55E,#F8FAFC,#0F172A,#334155,Marketplace for Experts uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2b|b2c|marketplace|saas,extended
+Financial Planning App,#1D4ED8,#60A5FA,#F59E0B,#F8FAFC,#0F172A,#CBD5E1,Financial Planning App uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|fintech|mobile-app,extended
+Course Creator Studio,#14532D,#22C55E,#F97316,#F7FEE7,#14532D,#BBF7D0,Course Creator Studio uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|creator|education|saas,extended
+Agency Operations OS,#0E7490,#22D3EE,#16A34A,#ECFEFF,#164E63,#A5F3FC,Agency Operations OS uses trust-led contrast with clear action emphasis and readable neutral surfaces.,agency|b2b|saas,extended
+Insurance Comparison Tool,#7C3AED,#A78BFA,#F97316,#FAF5FF,#3B0764,#DDD6FE,Insurance Comparison Tool uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|fintech|marketplace,experimental
+Event Sponsorship CRM,#065F46,#10B981,#EA580C,#ECFDF5,#064E3B,#A7F3D0,Event Sponsorship CRM uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2b|enterprise|events|saas,experimental
+Home Services Booking,#0B1220,#1E293B,#22C55E,#F8FAFC,#0F172A,#334155,Home Services Booking uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|local-services|marketplace,experimental
+Wellness Coaching Funnel,#1D4ED8,#60A5FA,#F59E0B,#F8FAFC,#0F172A,#CBD5E1,Wellness Coaching Funnel uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|coaching|wellness,experimental
+Industrial Analytics Dashboard,#14532D,#22C55E,#F97316,#F7FEE7,#14532D,#BBF7D0,Industrial Analytics Dashboard uses trust-led contrast with clear action emphasis and readable neutral surfaces.,analytics|b2b|enterprise|saas,experimental
+EdTech Assessment Platform,#0E7490,#22D3EE,#16A34A,#ECFEFF,#164E63,#A5F3FC,EdTech Assessment Platform uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2b|b2c|education|saas,experimental
+Luxury Real Estate Portal,#7C3AED,#A78BFA,#F97316,#FAF5FF,#3B0764,#DDD6FE,Luxury Real Estate Portal uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|luxury|real-estate,experimental
+Community Banking App,#065F46,#10B981,#EA580C,#ECFDF5,#064E3B,#A7F3D0,Community Banking App uses trust-led contrast with clear action emphasis and readable neutral surfaces.,b2c|fintech|mobile-app,experimental

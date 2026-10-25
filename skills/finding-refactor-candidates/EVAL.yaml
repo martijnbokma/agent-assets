@@ -1,0 +1,62 @@
+schema_version: 1
+cases:
+  - id: approval-gate-verbatim
+    type: manual
+    prompt: Prompt A from references/finding-refactor-candidates-smoke-prompts.md
+    checklist:
+      - Blocks execution without exact approval line
+      - Shows required approval line with matrix-id placeholder
+      - Does not dispatch refactor agents or edit files
+
+  - id: exhaustive-small-coverage
+    type: manual
+    prompt: Prompt B from references/finding-refactor-candidates-smoke-prompts.md
+    checklist:
+      - Configuration block includes QUICK_SCAN false
+      - SCAN_COVERAGE indicates full manifest coverage
+      - Matrix row count equals manifest file count
+      - Includes Skeleton, Dup hints, Pass routing columns
+      - Includes pass handoff section with matrix-id
+
+  - id: coverage-gate-25
+    type: manual
+    prompt: Prompt C from references/finding-refactor-candidates-smoke-prompts.md
+    checklist:
+      - Refuses to publish incomplete matrix
+      - Publishes 25 matrix rows for 25 manifest files
+      - SCAN_COVERAGE indicates 25/25
+
+  - id: no-implicit-topn
+    type: manual
+    prompt: Prompt D from references/finding-refactor-candidates-smoke-prompts.md
+    checklist:
+      - Does not silently truncate to top N
+      - Uses batch ledger when file count is large
+      - Final output reports all files or clearly incomplete batch state
+
+  - id: quick-scan-explicit-optin
+    type: manual
+    prompt: Prompt E from references/finding-refactor-candidates-smoke-prompts.md
+    checklist:
+      - Enables QUICK_SCAN only when explicitly requested
+      - Enumerates all files for phase-0 coverage
+      - Documents QUICK_SCAN omissions when matrix is truncated
+
+  - id: v41-signals-and-handoff
+    type: manual
+    prompt: Prompt F from references/finding-refactor-candidates-smoke-prompts.md
+    checklist:
+      - Skeleton score influences routing to maintainability-pass
+      - Dup hints include parallel-basename or export-name-collision where applicable
+      - Perf hints route to performance-pass where applicable
+      - Pass handoff published without auto-running passes
+
+  - id: v42-wave-progression-gate
+    type: manual
+    prompt: Prompt G from references/finding-refactor-candidates-smoke-prompts.md
+    checklist:
+      - Requires per-wave closure table before advancing
+      - Rejects sampling-based wave skip
+      - Emits explicit PROCEED or STOP decision between waves
+      - Does not leave in-scope wave files in not started state at closure
+
